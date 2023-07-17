@@ -1,3 +1,5 @@
-# htmlcss_portfolio
+# HTML CSS Portfolio
 
-# by Mohammad Ramzan
+# In HTML and CSS just a simple portfolio
+
+# Ⓒ Mohammad Ramzan
